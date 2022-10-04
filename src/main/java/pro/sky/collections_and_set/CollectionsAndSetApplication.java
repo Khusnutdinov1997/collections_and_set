@@ -9,8 +9,6 @@ public class CollectionsAndSetApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CollectionsAndSetApplication.class, args);
-
-		Employee employee = new Employee("Saha", "Ivanov");
 	}
 
 }
